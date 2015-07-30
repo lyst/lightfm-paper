@@ -21,6 +21,3 @@ It is possible to run invididual experiments. Examples:
 - `ipython -- experiments/stackexchange/model.py --dim 50 --lsi --tags --ids --split 0.2` will run the CrossValidated experiment with 50-dimensional
   latent space, using the LSI-LR model with both post tags and post ids.
 - `ipython -- experiments/movielens/model.py --ids --cold --split 0.2` will run the MF model on the MovieLens dataset in the cold-start scenario.
-
-## Citing this paper
-Bibtex goes here.
