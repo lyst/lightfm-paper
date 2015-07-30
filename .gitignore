@@ -1,0 +1,16 @@
+*.log
+*.*~
+*.pyc
+*.out
+*.bbl
+*.aux
+*.org
+*.blg
+*.zip
+*.htm
+*.dat
+*.sh
+*.pl
+*.xml
+*.7z
+*.html
