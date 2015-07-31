@@ -1,6 +1,6 @@
 # Metadata Embeddings for User and Item Cold-start Recommendations 
 
-Pre-print available on [arXiv](http://arxiv.org). 
+Pre-print available on [arXiv](http://arxiv.org/abs/1507.08439). 
 
 ## Structure
 
